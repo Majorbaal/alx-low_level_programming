@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main- print a ctring program using printf.
+ * main - print a string program using printf.
  *
  * return: 0
  */
