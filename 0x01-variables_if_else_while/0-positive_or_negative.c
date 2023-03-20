@@ -6,6 +6,7 @@
  *
  *  Return: 0 on success
  */
+
 int main(void)
 {
 	int n;
@@ -25,5 +26,5 @@ int main(void)
 	{
 		printf("%d is %s\n", n, "zero");
 	}
-	Return (0);
+return (0);
 }
