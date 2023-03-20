@@ -15,7 +15,7 @@ if (lowerCase == 'e' || lowerCase == 'q')
 {
 lowerCase += 1;
 }
-else 
+else
 {
 putchar(lowerCase);
 lowerCase += 1;
