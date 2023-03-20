@@ -10,7 +10,7 @@
  *
  * Return: Always 0 (success)
  */
-int maiin(void)
+int main(void)
 {
 int n, lastnum;
 
