@@ -8,17 +8,17 @@
 
 int main(void)
 {
-int lowercase = 'a';
-int uppercase = 'A';
-while (lowercase <= 'z')
+int lowerCase = 'a';
+int upperCase = 'A';
+while (lowerCase <= 'z')
 {
-putchar(lowercase);
-lowercase += 1;
+putchar(lowerCase);
+lowerCase += 1;
 }
-while (uppercase <= 'z')
+while (upperCase <= 'z')
 {
-putchar(uppercase);
-uppercaase += 1;
+putchar(upperCase);
+upperCase += 1;
 }
 putchar('\n');
 return (0);
