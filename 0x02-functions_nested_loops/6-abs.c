@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * int _abs - value of an int
+ * _abs - value of an int
  * @n: the int in question
  *
  * Return: the abs of the int.
